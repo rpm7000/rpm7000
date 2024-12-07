@@ -1,17 +1,12 @@
-Windows PowerShell
-Copyright (C) Microsoft Corporation. All rights reserved.
+# Define source and destination directories
+$Source = "Z:\Raw_Data"
+$Destination = "Z:\Rw_Data-1"
 
-Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
-
-PS C:\Users\Admin> $Source ="C:\Users\Admin\Downloads\A"
-PS C:\Users\Admin> $Destination ="C:\Users\Admin\Downloads\B"
-PS C:\Users\Admin> # Continuous monitoring loop
-PS C:\Users\Admin> while ($true) {
->>     # Copy items recursively from source to destination
->>     Copy-Item -Path "$Source\*" -Destination $Destination -Recurse -Force
->>
->>     # Add a delay to prevent excessive CPU usage
->>     Start-Sleep -Seconds 5
->> }
-
-
+# Continuous monitoring loop
+while ($true) {
+    # Copy items recursively from source to destination
+    Copy-Item -Path "$Source\*" -Destination $Destination -Recurse -Force
+    
+    # Add a delay to prevent excessive CPU usage
+    Start-Sleep -Seconds 5
+}
