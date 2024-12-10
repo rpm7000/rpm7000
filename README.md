@@ -5,7 +5,6 @@
 - 💞️ I’m looking to collaborate on cloud-native applications, database optimization projects, and anything related to AWS architecture.
 - 📫 "You can reach me at nayandeb578@gmail.com or connect with me on LinkedIn nayandeb578.
 - 😄 Pronouns: ...
-- ⚡ Fun fact: "Fun fact: I can set up a Win server faster than I can decide what to eat for dinner!"
 
 <!---
 rpm7000/rpm7000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
