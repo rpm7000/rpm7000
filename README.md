@@ -3,8 +3,8 @@
 - 👀 I’m particularly interested in exploring database management using SQL, mastering AWS cloud solutions, and gaining expertise in Network Management Systems (NMS).
 - 🌱 I’m currently diving deep into AWS, exploring services like EC2, S3, and Lambda, while preparing for advanced certifications.
 - 💞️ I’m looking to collaborate on cloud-native applications, database optimization projects, and anything related to AWS architecture.
-- 📫 "You can reach me at nayandeb578@gmail.com or connect with me on LinkedIn nayandeb578.
-- 😄 Pronouns: ...
+- 📫 You can reach me at nayandeb578@gmail.com or connect with me on LinkedIn nayandeb578.
+- 🎦 Photographer by passion 
 
 <!---
 rpm7000/rpm7000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
