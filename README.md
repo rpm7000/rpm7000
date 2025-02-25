@@ -1,4 +1,4 @@
-- 🏢 Technical Supporter at Learning Spiral Pvt. Ltd.|| SQL | AWS | NMS
+- 🏢 SQL | AWS | NMS
 - 👋 Hi, I’m Nayan Debnath, a tech enthusiast passionate about cloud computing, data analysis, and networking.
 - 👀 I’m particularly interested in exploring database management using SQL, mastering AWS cloud solutions, and gaining expertise in Network Management Systems (NMS).
 - 🌱 I’m currently diving deep into AWS, exploring services like EC2, S3, and Lambda, while preparing for advanced certifications.
